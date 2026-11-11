@@ -1,4 +1,4 @@
-package com.example.map_kazakov.presentations;
+package com.example.map_osennikov.presentations;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -17,7 +17,7 @@ import com.yandex.mapkit.geometry.Point;
 import com.yandex.mapkit.map.PlacemarkMapObject;
 import com.yandex.runtime.image.ImageProvider;
 
-import com.example.map_kazakov.R;
+import com.example.map_osennikov.R;
 import com.yandex.mapkit.GeoObject;
 import com.yandex.mapkit.MapKitFactory;
 import com.yandex.mapkit.map.CameraPosition;

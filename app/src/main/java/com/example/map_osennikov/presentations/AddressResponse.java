@@ -1,4 +1,4 @@
-package com.example.map_kazakov.presentations;
+package com.example.map_osennikov.presentations;
 
 import java.util.ArrayList;
 

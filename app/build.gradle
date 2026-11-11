@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.map_kazakov'
+    namespace 'com.example.map_osennikov'
     compileSdk 36
 
     defaultConfig {

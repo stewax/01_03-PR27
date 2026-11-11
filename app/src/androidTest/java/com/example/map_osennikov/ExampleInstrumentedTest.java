@@ -1,4 +1,4 @@
-package com.example.map_kazakov;
+package com.example.map_osennikov;
 
 import android.content.Context;
 

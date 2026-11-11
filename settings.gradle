@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "map_kazakov"
+rootProject.name = "map_osennikov"
 include ':app'
